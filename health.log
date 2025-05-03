@@ -1,0 +1,99 @@
+=== Server Health Report @ 2025-04-21 00:54:42 ===
+Hostname: ijmg-OptiPlex-9010
+Uptime: up 5 days, 8 hours, 2 minutes
+
+=== Server Health Report @ 2025-04-21 01:02:12 ===
+Hostname: ijmg-OptiPlex-9010
+Uptime: up 5 days, 8 hours, 10 minutes
+
+CPU Load (1/5/15 min):  0.70, 0.67, 0.78
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi        20Gi       541Mi       644Mi        11Gi        10Gi
+Swap:          2.0Gi       106Mi       1.9Gi
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           3.2G  2.4M  3.2G   1% /run
+/dev/sdc3       916G  147G  722G  17% /
+tmpfs            16G  325M   16G   3% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+/dev/sdc2       512M  6.2M  506M   2% /boot/efi
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+/dev/sda        3.6T  1.6T  1.9T  47% /media/ijmg/SSD_FOUR_TB
+
+=== Server Health Report @ 2025-04-21 01:08:15 ===
+Hostname: ijmg-OptiPlex-9010
+Uptime: up 5 days, 8 hours, 16 minutes
+
+CPU Load (1/5/15 min):  0.81, 0.88, 0.84
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi        20Gi       438Mi       642Mi        11Gi        10Gi
+Swap:          2.0Gi       106Mi       1.9Gi
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           3.2G  2.4M  3.2G   1% /run
+/dev/sdc3       916G  147G  722G  17% /
+tmpfs            16G  322M   16G   3% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+/dev/sdc2       512M  6.2M  506M   2% /boot/efi
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+/dev/sda        3.6T  1.6T  1.9T  47% /media/ijmg/SSD_FOUR_TB
+
+=== Server Health Report @ 2025-04-21 02:15:09 ===
+Hostname: ijmg-OptiPlex-9010
+Uptime: up 5 days, 9 hours, 22 minutes
+
+CPU Load (1/5/15 min):  0.94, 0.87, 0.91
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi        20Gi       544Mi       664Mi        11Gi        10Gi
+Swap:          2.0Gi       110Mi       1.9Gi
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           3.2G  2.4M  3.2G   1% /run
+/dev/sdc3       916G  147G  722G  17% /
+tmpfs            16G  345M   16G   3% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+/dev/sdc2       512M  6.2M  506M   2% /boot/efi
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+/dev/sda        3.6T  1.6T  1.9T  47% /media/ijmg/SSD_FOUR_TB
+
+=== Server Health Report @ 2025-04-30 23:42:05 ===
+Hostname: ijmg-OptiPlex-9010
+Uptime: up 2 weeks, 1 day, 6 hours, 49 minutes
+
+CPU Load (1/5/15 min):  0.55, 0.63, 0.75
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi        13Gi       3.6Gi       451Mi        15Gi        17Gi
+Swap:          2.0Gi       1.1Gi       968Mi
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           3.2G  2.5M  3.2G   1% /run
+/dev/sdc3       916G  147G  723G  17% /
+tmpfs            16G  268M   16G   2% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+/dev/sdc2       512M  6.2M  506M   2% /boot/efi
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+/dev/sda        3.6T  1.6T  1.9T  47% /media/ijmg/SSD_FOUR_TB
+
+=== Server Health Report @ 2025-05-02 01:23:39 ===
+Hostname: ijmg-OptiPlex-9010
+Uptime: up 2 weeks, 2 days, 8 hours, 31 minutes
+
+CPU Load (1/5/15 min):  0.79, 0.93, 0.89
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            31Gi        14Gi       2.1Gi       570Mi        15Gi        16Gi
+Swap:          2.0Gi       1.1Gi       896Mi
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           3.2G  2.5M  3.2G   1% /run
+/dev/sdc3       916G  147G  723G  17% /
+tmpfs            16G  344M   16G   3% /dev/shm
+tmpfs           5.0M   12K  5.0M   1% /run/lock
+/dev/sdc2       512M  6.2M  506M   2% /boot/efi
+tmpfs           3.2G  3.8M  3.2G   1% /run/user/1000
+/dev/sda        3.6T  1.6T  1.9T  47% /media/ijmg/SSD_FOUR_TB
+
